@@ -1,0 +1,17 @@
+.header{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status, #noofobjects{
+font-size: 18px;
+}
+body{
+    background: linear-gradient(#1a1a1a 0%, #262626 100%);
+    background-position: center;
+}
+canvas{
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 20px;
+    margin-top: 30px;
+}
